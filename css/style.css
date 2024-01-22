@@ -1,0 +1,27 @@
+p{
+    font-size: 20px;
+    font-weight: bold;
+}
+img{
+    width: 300px;
+    height: 250px;
+}
+.division1{
+    background-color: aqua;
+}
+.division2{
+    background-color: #d1f163;
+}
+.division3{
+    background-color: #f10b2e;
+}
+.h1{
+    background-color: cornflowerblue;
+}
+
+.imageparagraph{
+    display: flex;
+}
+p{
+    padding-left: 5px;
+}
